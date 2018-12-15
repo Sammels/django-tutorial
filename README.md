@@ -1,6 +1,6 @@
 # Django
 
-https://docs.djangoproject.com/en/2.1/intro/tutorial02/
+https://docs.djangoproject.com/en/2.1/intro/tutorial03/
 
 ## Links
 
@@ -19,3 +19,7 @@ http://192.168.99.100:8000/
 - docker-compose up --build
 - docker exec -it trackfinance_web_1 bash
 - python manage.py shell
+
+## Admin
+
+- python manage.py createsuperuser
