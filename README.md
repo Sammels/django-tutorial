@@ -8,7 +8,7 @@ http://192.168.99.100:8000/
 
 ## DB
 
-- docker exec -it trackfinance_db_1 bash
+- docker exec -it djangotutorial_db_1 bash
 - psql -p 5432 postgres postgres
 - python manage.py migrate
 - python manage.py makemigrations polls
@@ -17,7 +17,7 @@ http://192.168.99.100:8000/
 ## Commands
 
 - docker-compose up --build
-- docker exec -it trackfinance_web_1 bash
+- docker exec -it djangotutorial_web_1 bash
 - python manage.py shell
 
 ## Admin
