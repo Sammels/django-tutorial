@@ -1,6 +1,6 @@
 # Django
 
-https://docs.djangoproject.com/en/2.1/intro/tutorial07/
+https://docs.djangoproject.com/en/2.1/intro/reusable-apps/
 
 ## Links
 
@@ -20,6 +20,7 @@ http://192.168.99.100:8000/
 - docker exec -it djangotutorial_web_1 bash
 - python manage.py shell
 - python manage.py test polls
+- cp /usr/local/lib/python3.7/site-packages/django/contrib/admin/templates/admin/base_site.html /code/polls/templates
 
 ## Admin
 
