@@ -1,6 +1,6 @@
 # Django
 
-https://docs.djangoproject.com/en/2.1/intro/tutorial06/
+https://docs.djangoproject.com/en/2.1/intro/tutorial07/
 
 ## Links
 
