@@ -1,6 +1,6 @@
 # Django
 
-https://docs.djangoproject.com/en/2.1/intro/tutorial05/
+https://docs.djangoproject.com/en/2.1/intro/tutorial06/
 
 ## Links
 
@@ -19,6 +19,7 @@ http://192.168.99.100:8000/
 - docker-compose up --build
 - docker exec -it djangotutorial_web_1 bash
 - python manage.py shell
+- python manage.py test polls
 
 ## Admin
 
