@@ -1,6 +1,6 @@
 # Django
 
-https://docs.djangoproject.com/en/2.1/intro/reusable-apps/
+https://docs.djangoproject.com/en/2.1/intro/whatsnext/
 
 ## Links
 
